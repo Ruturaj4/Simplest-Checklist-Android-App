@@ -11,7 +11,7 @@
      I thought of the design first, then created a design prototype. I also uploaded it on android play store, to get to know how the android developer console works. Also, I set up advertisements using admob API. I learned a lot of new things!</p>
     <h3>Things I learned: </h3>
     <ul>
-      <li>Workind with Android studio</li>
+      <li>Android studio basics</li>
       <li>Android programming (using JAVA and XML)</li>
       <li>Android directory structure</li>
       <li>Permissions in the manifest</li>
